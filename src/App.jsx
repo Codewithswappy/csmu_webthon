@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import { Hero } from './pages/hero'
 
 function App() {
