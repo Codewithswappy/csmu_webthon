@@ -1,13 +1,12 @@
 
 import './App.css'
+import { Hero } from './pages/hero'
 
 function App() {
 
   return (
     <>
-    <div className='h-screen w-full bg-red-800'> 
-
-    </div>
+    <Hero/>
     </>
    
    
