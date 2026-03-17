@@ -1,8 +1,9 @@
 import React from 'react'
+
 export const Hero = () => {
   return (
-
-    <div className='h-screen w-full bg-red-800'>    
+    <div className='bg-[url("/hero2.jpg")] bg-cover  bg-top h-screen w-full'>    
+    
     </div>
   )
 }
