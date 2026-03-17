@@ -7,3 +7,9 @@
   body {
   font-family: "Kavoon", serif;
   }
+
+  ::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    background: transparent; /* make scrollbar transparent */
+  }
